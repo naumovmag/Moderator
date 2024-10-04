@@ -33,6 +33,10 @@ To work with the microservice, it is recommended to create a virtual environment
    ```
 
 ## Running Locally
+After installing the dependencies, install the dependencies from requirements.txt:
+```sh
+pip install -r requirements.txt
+```
 
 After installing the dependencies, you can run the microservice locally:
 
