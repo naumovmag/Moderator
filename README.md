@@ -11,7 +11,7 @@ To work with the microservice, it is recommended to create a virtual environment
 1. Clone the repository:
    ```sh
    git clone https://github.com/naumovmag/Moderator.git
-   cd text-moderation-service
+   cd Moderator
    ```
 
 2. Create a virtual environment and activate it:
