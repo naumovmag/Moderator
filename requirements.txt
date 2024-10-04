@@ -1,0 +1,7 @@
+transformers==4.45.1
+torch==2.4.1
+aiohttp==3.10.8
+python-dotenv==1.0.1
+gtts==2.5.1
+pytz==2024.1
+aiohttp==3.10.8

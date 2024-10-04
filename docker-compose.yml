@@ -1,0 +1,13 @@
+services:
+  moderator:
+    build: .
+    container_name: moderator
+    restart: always
+    environment:
+      - LANG=C.UTF-8
+    volumes:
+      - .:/app
+    ports:
+      - "5050:5050"
+    working_dir: /app
+    command: python app.py
