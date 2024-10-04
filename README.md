@@ -2,7 +2,7 @@
 
 ## Description
 
-This microservice performs text moderation, checking for prohibited content. The service is written in Python and uses modern technologies for ease of use and deployment.
+This microservice performs text moderation, checking for prohibited content. It uses a pre-trained AI model for effective moderation. The service is written in Python and uses modern technologies for ease of use and deployment.
 
 ## Installation and Setup
 
