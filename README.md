@@ -37,7 +37,7 @@ To work with the microservice, it is recommended to create a virtual environment
 After installing the dependencies, you can run the microservice locally:
 
 ```sh
-python main.py
+python app.py
 ```
 
 ## Using Docker Compose
