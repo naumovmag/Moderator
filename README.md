@@ -1,8 +1,8 @@
-# Text Moderation Microservice
+# Text moderation microservice
 
 ## Description
 
-This microservice performs text moderation, checking for prohibited content. It uses a pre-trained AI model for effective moderation. The service is written in Python and uses modern technologies for ease of use and deployment.
+This microservice performs text moderation, checking for prohibited content. It is primarily oriented towards the **Russian language**. It uses a pre-trained AI model for effective moderation. The service is written in Python and uses modern technologies for ease of use and deployment.
 
 ## Installation and Setup
 
